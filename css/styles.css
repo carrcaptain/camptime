@@ -15,7 +15,7 @@ header h2 {
 }
 
 .site-footer {
-    background-image: linear-gradient(#CEC8FF, white);
+    background-image: linear-gradient(#CEC8FF, rgb(255, 255, 255));
     padding: 20px 0;
 }
 
@@ -34,4 +34,14 @@ header h2 {
 
 .navbar {
     background-color: #901CAD;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border-style: outset;
+    border-width: 0.15cm;
+    border-color: #901CAD;
 }
